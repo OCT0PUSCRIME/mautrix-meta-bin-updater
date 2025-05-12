@@ -169,3 +169,6 @@ This project is licensed under the MIT License.
 
 Created by [OCT0PUSCRIME](https://github.com/OCT0PUSCRIME).  
 This script was designed to simplify the update process for **mautrix-meta** bridges.
+
+---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21EW45A)
